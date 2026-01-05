@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(156, 156, 156);
+}
+table {
+  width: 95%;
+  text-align: center;
+  justify-content: center;
+}
+#form {
+  background-color: rgb(156, 156, 156);
+  height: 100%;
+}
